@@ -1,15 +1,4 @@
-```
-spam-mail-detection-ml-app/
-│── app.py                # Streamlit Web App
-│── spam_model.pkl        # Trained Naive Bayes model
-│── vectorizer.pkl        # TF-IDF Vectorizer
-│── requirements.txt      # Package dependencies
-│── README.md             # Documentation
-│── notebook/ (optional)  # Jupyter notebook for training
-    └── spam_mail_detection.ipynb
-```
 
----
 
 # 🧠 Machine Learning Pipeline
 
